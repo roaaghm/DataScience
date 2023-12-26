@@ -1,17 +1,6 @@
 # Data Scientist Nanodegree
-In this repository you'll find all the projects I've done in the (Data Scientist Nanodegree) program on Udacity.
+In this folder you'll find project 1 detailed implmentation.
 
 # First Project: Write a Data Science Blog Post
 In this project, I used Netflix dataset to explore...
 
-
-# Second Project: 
-
-
-
-# Third Project:
-
-
-
-
-# Fourth Project: 
