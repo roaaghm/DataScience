@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows
 Here is the python code: 
 
 
-[a relative link](Project 1.ipynb)
+[a relative link](Project%201.ipynb)
 
 And here you can check my medium post:
 https://medium.com/@roaa.alghamdi19/asking-the-right-questions-to-investigate-netflix-data-10804c7da3d2 
