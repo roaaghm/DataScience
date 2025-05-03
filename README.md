@@ -1,7 +1,7 @@
 # My projects
 In this repository you'll find some personal projects.
 
-# Netflix Data Analysis 
+# Project 1: Netflix Data Analysis 
 In this project, I used Netflix dataset to explore.
 
 
