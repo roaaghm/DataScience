@@ -1,8 +1,8 @@
-# Data Scientist Nanodegree
+
 In this folder you'll find project 1 detailed implmentation.
 
 
-# First Project: Write a Data Science Blog Post
+# First Project: NEtflix Data Analysis
 In this project, I used Netflix dataset to explore which you can find here:
 https://www.kaggle.com/datasets/shivamb/netflix-shows 
 
