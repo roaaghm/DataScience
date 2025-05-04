@@ -2,7 +2,7 @@
 In this folder you'll find project 1 detailed implmentation.
 
 
-# First Project: NEtflix Data Analysis
+# First Project: Netflix Data Analysis
 In this project, I used Netflix dataset to explore which you can find here:
 https://www.kaggle.com/datasets/shivamb/netflix-shows 
 
